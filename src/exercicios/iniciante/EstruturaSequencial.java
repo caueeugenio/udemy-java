@@ -1,6 +1,6 @@
-package exercicios;
+package exercicios.iniciante;
 
-public class ExerciciosIniciante {
+public class EstruturaSequencial {
 
 /*
 
