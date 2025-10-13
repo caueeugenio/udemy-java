@@ -39,7 +39,19 @@ public class Main {
 
 //        String exercicioEstruturaCondicional03 = estruturaCondicional.isMultiple();
 //        System.out.println(exercicioEstruturaCondicional03);
-        String exercicioEstruturaCondicional04 = estruturaCondicional.gameDuration();
-        System.out.println(exercicioEstruturaCondicional04);
+//        String exercicioEstruturaCondicional04 = estruturaCondicional.gameDuration();
+//        System.out.println(exercicioEstruturaCondicional04);
+
+//        String exercicioEstruturaCondicional05 = estruturaCondicional.totalOrder();
+//        System.out.println(exercicioEstruturaCondicional05);
+
+//        String exercicioEstruturaCondicional06 = estruturaCondicional.interval();
+//        System.out.println(exercicioEstruturaCondicional06);
+
+//        String exercicioEstruturaCondicional07 = estruturaCondicional.coordenations();
+//        System.out.println(exercicioEstruturaCondicional07);
+
+        String exercicioEstruturaCondicional08 = estruturaCondicional.tax();
+        System.out.println(exercicioEstruturaCondicional08);
     }
 }
