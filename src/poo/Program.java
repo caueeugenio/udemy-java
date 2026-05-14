@@ -11,12 +11,12 @@ public class Program {
 //    }
 
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
         Triangle x, y;
         x = new Triangle(); // Novo objeto - Instanciação da classe
         y = new Triangle();
         
-        Locale.setDefault(Locale.ENGLISH);
         System.out.println("Digite os lados do triângulo X:");
         x.a = scanner.nextDouble();
         x.b = scanner.nextDouble();
